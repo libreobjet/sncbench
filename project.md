@@ -1,7 +1,7 @@
 ---
-object_name: Sncbench
+object_name: SNCBench
 designer: [Mathieu Gabiot, Martin Lévêque, Julien Deswaef]
-builder: # Full name(s) of builder(s). Ex: [Builder one, Builder two]
+builder: [Mathieu Gabiot, Martin Lévêque]
 category: bench
 tags: [hardwood]
 overall_size: # Overall size of the object ex: 2500 x 455 x 410 mm
@@ -11,12 +11,12 @@ derived_from: uHBench
 original_designer: [Julien Deswaef]
 realisation_place: Brussels, Belgium
 required_hardware: # List of tools necessary for construction ex: [chainsaw or traditional woodworking tools]
-materials: # List of materials [Oak]
+materials: [Oak] # List of materials 
 license: ﻿Free Art License
 client: Constant VZW
 ---
 
 
-_Sncbench is a urbanbench._
+_SNCBench is a urbanbench._
 
 > description coming soon
